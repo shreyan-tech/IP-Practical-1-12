@@ -2,7 +2,7 @@
 
 
 # Q1. Variable creation and naming
-name = "Harsh"
+name = "Shreyan"
 age = 18
 marks = 85.5
 city = "Mumbai"
